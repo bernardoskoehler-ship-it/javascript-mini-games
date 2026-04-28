@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+}
+
+.game-area {
+    position: relative;
+}
+
+#corpo {
+    width: 370px;
+    position: absolute;
+    top: 170px;
+    left: 596px;
+}
+
+#cabeca1 {
+    width: 220px;
+    position: absolute;
+    top: 120px;
+    left: 670px;
+}
+
+#botao1,
+#botao2,
+#botao3,
+#botao4 {
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+}
+
+#botao1 {
+    top: 140px;
+}
+
+#botao2 {
+    top: 260px;
+}
+
+#botao3 {
+    top: 445px;
+}
+
+#botao4 {
+    top: 620px;
+}
+
+#imagem1 {
+    width: 150px;
+    position: absolute;
+    top: 50px;
+    left: 700px;
+}
+
+#imagem2 {
+    width: 225px;
+    position: absolute;
+    top: 165px;
+    left: 667px;
+}
+
+#imagem3 {
+    width: 255px;
+    position: absolute;
+    top: 315px;
+    left: 653px;
+}
+
+#imagem4 {
+    width: 255px;
+    position: absolute;
+    top: 410px;
+    left: 654px;
+}
