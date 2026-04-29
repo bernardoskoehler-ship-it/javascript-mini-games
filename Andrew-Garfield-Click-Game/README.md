@@ -62,6 +62,10 @@ The main goal was not to create a perfect or fully responsive game, but to pract
 3. Click on the characters when they appear.
 4. Try to get the highest score possible.
 
-## Author
+---
 
-Developed by Bernardo S. Koehler as part of my programming studies in the Entra21 course.
+## 👤 Author
+
+Developed by **Bernardo Koehler**
+
+---
